@@ -85,7 +85,8 @@
 - [copilot.vim](https://github.com/github/copilot.vim) - 官方GitHub Copilot Vim/Neovim插件。
 - [Cody](https://sourcegraph.com/cody) - Sourcegraph推出的免费AI代码助手，具有深度代码库理解和代码索引功能。
 - [Qodo Gen](https://www.qodo.ai/) - AI驱动的VS Code编程平台，具有测试、代码审查和代理工具。
-- [Skills.sh](https://skills.sh/) - Vercel推出的开放生态系统，可通过单条命令在18+个平台上安装可复用的AI代理技能。
+- [Skills.sh](https://skills.sh/)
+- [anti-slop-design](https://github.com/wwewtech/anti-slop-design) - 开源设计工程技能，消除 AI 前端模板套路与劣质 UI。 - Vercel推出的开放生态系统，可通过单条命令在18+个平台上安装可复用的AI代理技能。
 
 ## 本地应用
 
